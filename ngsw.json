@@ -7,9 +7,6 @@
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
-      "cacheQueryOptions": {
-        "ignoreVary": true
-      },
       "urls": [
         "app-offline/favicon.ico",
         "app-offline/index.html",
@@ -25,9 +22,6 @@
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
-      "cacheQueryOptions": {
-        "ignoreVary": true
-      },
       "urls": [
         "app-offline/assets/icons/icon-128x128.png",
         "app-offline/assets/icons/icon-144x144.png",
